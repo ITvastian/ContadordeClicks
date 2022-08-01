@@ -10,4 +10,4 @@ function Boton ({texto, esBotondeClick, manejarClick }) {
 	)
 }
 
-export default Boton;/*  con exportacion por defecto solo puedo exportar una cosa (boton) */
+export default Boton;
