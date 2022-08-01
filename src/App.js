@@ -7,7 +7,7 @@ import {useState} from 'react';
 
 function App() {
 
-  const [numClick, setNumClick] = useState(0); /* por convencion set es para asignar a algo. como actualizar numero de click */
+  const [numClick, setNumClick] = useState(0); 
 
   const manejarClick = () => {
     setNumClick (numClick + 1);
