@@ -1,0 +1,25 @@
+button{
+  width: 250px;
+	height: 80px;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: azure;
+	border: 2px solid white;
+	border-radius: 15px;
+	margin: 5px;
+	cursor: pointer;
+}
+
+button:hover { /* cuando el mouse se encuentra ensima pero sin hacer click */
+	background-color: #00471b;
+
+}
+
+.boton-click {
+	background-color: aqua;
+}
+.boton-reiniciar {
+
+	background-color: #434379;
+}
